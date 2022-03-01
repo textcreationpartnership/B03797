@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A militarie rudiment, or Observations of the form of militarie exercise, according to His Excellens Guard in Holland. With the ranges and number of officers in an armie, from the lowest to the highest, and their dueties, in short. As also is added a little anent the composition of an armie. And finallie, some few principalls, in the art of fortification. / By George Innes.</title>
+            <author>Innes, George, fl. 1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03797</idno>
+            <idno type="STC">Wing I192</idno>
+            <idno type="STC">ESTC R178673</idno>
+            <idno type="EEBO-CITATION">51571959</idno>
+            <idno type="OCLC">ocm 51571959</idno>
+            <idno type="VID">175264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175264)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2725:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A militarie rudiment, or Observations of the form of militarie exercise, according to His Excellens Guard in Holland. With the ranges and number of officers in an armie, from the lowest to the highest, and their dueties, in short. As also is added a little anent the composition of an armie. And finallie, some few principalls, in the art of fortification. / By George Innes.</title>
+                  <author>Innes, George, fl. 1644.</author>
+               </titleStmt>
+               <extent>28 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Edward Raban,</publisher>
+                  <pubPlace>Aberdene :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military art and science --  Soldiers' handbooks --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175264:1"/>
+            <pb facs="tcp:175264:2"/>
+            <pb facs="tcp:175264:2"/>
+            <pb facs="tcp:175264:3"/>
+            <pb facs="tcp:175264:3"/>
+            <pb facs="tcp:175264:4"/>
+            <pb facs="tcp:175264:4" rendition="simple:additions"/>
+            <p>A MILITARIE RUDIMENT, <hi>OR</hi> Obſervations of the form of Militarie exerciſe, according to his Excellens Guard in Holland.</p>
+            <p>With the ranges and number of Officers in an Armie, from the lowest to the highest, and their dueties, in ſhort.</p>
+            <p>As alſo is added a little anent the compoſition of an Armie.</p>
+            <p>And finallie, Some few Principalls, in the <hi>Art of Fortification.</hi>
+            </p>
+            <p>BY GEORGE INNES.</p>
+            <figure/>
+            <p>
+               <hi>ABERDENE.</hi> IMPRINTED BY EDWARD RABAN, 1644.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:175264:5"/>
+            <p>
+               <figure>
+                  <p>BON ACCORD</p>
+                  <p>Inſignia <g ref="char:V">Ʋ</g>rbis abredonie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:175264:6"/>
+            <p>
+               <figure>
+                  <head>An Emblem of the Steps Of Militarie Preferment.</head>
+                  <p>HONOVR.</p>
+                  <p>Generall.</p>
+                  <p>23</p>
+                  <p>22</p>
+                  <p>21</p>
+                  <p>20</p>
+                  <p>19</p>
+                  <p>18</p>
+                  <p>17</p>
+                  <p>16</p>
+                  <p>15</p>
+                  <p>14</p>
+                  <p>13</p>
+                  <p>12</p>
+                  <p>11</p>
+                  <p>10</p>
+                  <p>9</p>
+                  <p>8</p>
+                  <p>7</p>
+                  <p>6</p>
+                  <p>5</p>
+                  <p>4</p>
+                  <p>3</p>
+                  <p>2</p>
+                  <p>1</p>
+                  <q>
+                     <lg>
+                        <l>This Counter-pyrameid aſcended is by thoſe,</l>
+                        <l>Who fears not Death, who followes not repoſe:</l>
+                        <l>For Slouth and Eaſe can never ſcale ſo hie,</l>
+                        <l>And Cowardize makes Honour ſtill to flic.</l>
+                     </lg>
+                     <lg>
+                        <l>Who would ſo mount, to gayn the larger Banch;</l>
+                        <l>Then hee must do't, by Steps of lower Range:</l>
+                        <l>The ſmaller Point, the greater bodie drawes,</l>
+                        <l>As of a Wedge, the Evidence who knowes.</l>
+                     </lg>
+                     <lg>
+                        <l>O, look aboue, The <hi>GARLAND</hi> is the Pryce,</l>
+                        <l>Which doth Braue Mynds to gayn the ſame entyce.</l>
+                     </lg>
+                  </q>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:175264:7"/>
+            <head>To the thryce Noble and Illuſtrious Lord, both in Vertue, and in Diſcent, My LORD GORDON.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord, the exigencie of Tyme, with the requeſt of ſome Friends &amp; acquaintances, did firſt vrge to this attempt, for their pri<g ref="char:EOLhyphen"/>vate vſe; which by accident you viewing, your will was, (which alwayes is to mee an abſolute Commandement) I ſhould publiſh the ſame: My boldneſs now is in preſenting it you. And becauſe it doeth (as it were) theoreticallie perveſtigiate the treſſes of your Noble Practiſe abroad; where-by yee did treade the Path of Honour, ſealed with a part of your Blood: Therefore, ſupplicateth your ac<g ref="char:EOLhyphen"/>ceptance, and protection: for none more worthie to diſ<g ref="char:EOLhyphen"/>cern, none more able to defend, and to none myne af<g ref="char:EOLhyphen"/>fection tendeth ſo much in the offer of this my Myte: Vouchſafe it then my Lord, the Shield of your favour, where-by it ſhall bee able to march through an Armie of Aſperſions; and I fortunate it ſhall bee vſefull to the inexpert. And thus, my Lord, you ſhall obliedge all thoſe to your beneficence, for granting it both advance<g ref="char:EOLhyphen"/>ment, and a paſport; &amp; alſo fortifie my weakneſs, in what I zealouſlie can approue my ſelf,</p>
+            <closer>
+               <salute>MY LORD</salute>
+               <signed>Yours moſt affectionatelie devoted ſervant, GEORGE INNES.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:175264:8"/>
+            <head>To the Loving Reader.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Othing is ſo well vnderstood by <hi>Theorie,</hi> as by <hi>Practick:</hi> But of all ſtudies <hi>Militarie Ex<g ref="char:EOLhyphen"/>erciſe</hi> is hardest, to conceaue without <hi>Pra<g ref="char:EOLhyphen"/>ctiſe:</hi> Wherefore I haue done this <hi>Ru<g ref="char:EOLhyphen"/>diment.</hi> Where first yee ſhall fynd the precept of the Practiſe it ſelf: Secondlie, the instru<g ref="char:EOLhyphen"/>ction how to perform the Exerciſe: Thirdlie, the vſe thereof: And fourthlie, the reaſon of the vſe, illustrated with divers Explanations, Notes, &amp; Obſervations; not onlie for the ſoo<g ref="char:EOLhyphen"/>ner and better conception of the inexpert obeying Souldiour; but alſo for the vſe of the inexperienced Commander: For tho when perfect in the Exerciſe it ſelf; yet inconſiderable what Practice to chooſe, according to the oportunitie of tyme, the advantage of the place, the ſtrength and manner of the enemies aſſault, it is not onlie in vayn, hut damnable: For the Phyſition, though never ſo skilfull, in the nature and vertue of ſimples, and of their compoſition; yet ignorant in their application, it is not onlie to no effect; but that it pro<g ref="char:EOLhyphen"/>veth mortall. Thus I hope the inpractiſed (for whoſe vſe it onlie is) will accept the ſame kyndlie, ſince I belieue hee will fynd no eaſier conception hereof, in ſo ſhort a Bre<g ref="char:EOLhyphen"/>viarie, for a Summe onlie I intend: I bid Fare-well.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:175264:8"/>
+            <head>To the young Souldiour.</head>
+            <l>
+               <seg rend="decorInit">Y</seg>Oung Souldiours, come; heere make your addreſs;</l>
+            <l>And you ſhall fynd your Practiſe put in Preſs.</l>
+            <l>Practiſe, indeed, doth teach that's not our own.</l>
+            <l>But yet it is ſooner, and better, known:</l>
+            <l>You to fore-know that which yee muſt practiſe,</l>
+            <l>For ſo the Act with Mynd doth ſimpathiſe.</l>
+            <l>Practiſe learns lay; their own and others ſpeach:</l>
+            <l>But Grammar Rules, the Reaſon doth vs teach.</l>
+            <l>Come freelie, come: For heere's a Theature;</l>
+            <l>Where The'rie aſſumes a Practick Nature.</l>
+            <l>Young Souldiours, then, this Rudiment imbrace;</l>
+            <l>Accept his payns, who doth ſuch help expreſs.</l>
+         </div>
+         <div type="dialogue">
+            <pb facs="tcp:175264:9"/>
+            <head>A Contraverſie betwixt Theorie and Practick, diſcerned by M. G. M. in prayſe of the Author, for preventing MOMUS.</head>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>HEnce hence, theſe Rudimentall notious,</l>
+               <l>I am prayſ'd, for braue practiſ'd motious.</l>
+            </sp>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>For all that, know, I do them paradiſe;</hi>
+               </l>
+               <l>
+                  <hi>Teaching you how, when, and where, for to practiſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>Tuſh ſpayr, a pine for your Direction:</l>
+               <l>Let you profeſs, I liue in Action.</l>
+            </sp>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>Ay, but that which yee ſay, I do profeſs:</hi>
+               </l>
+               <l>
+                  <hi>It doth the lyne of acting well, expreſs.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>Can ſubtile words, with gallant acts compare;</l>
+               <l>Whyle Hunger, Cold, and Sword, I do out-dare.</l>
+            </sp>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>Words but reveal's in mee what is divyne;</hi>
+               </l>
+               <l>
+                  <hi>Whyle your groſs acts, are ſervants to the Mynd.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>What was Ulyſſes wit, when Ajax Arm,</l>
+               <l>Did quench the Greek Ships fyrie alarum?</l>
+            </sp>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>Then but remember, <g ref="char:V">Ʋ</g>lyſſes gayn'd the Pryſe;</hi>
+               </l>
+               <l>
+                  <hi>Ajax for's fault, his lyf did ſacrifyce.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>Thus then the Trophies of the Nobles Nyne,</l>
+               <l>Comes far too ſhort, into theſe Rules of thyne<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <pb n="7" facs="tcp:175264:9"/>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>NO; But note! What is the lyf of Glorie;</hi>
+               </l>
+               <l>
+                  <hi>I am the Soull; thou but tranſitorie?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>In fenzi'd words yee do as much exceed,</l>
+               <l>As I in Valour alwayes you preceed.</l>
+            </sp>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>If that the Inſtrument the Cauſe excell;</hi>
+               </l>
+               <l>
+                  <hi>With lyke abſurditie, yee preſs mee well.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PRACTICK.</speaker>
+               <l>Are you the Cauſe, when Proveſs of an Act;</l>
+               <l>Reduc's your Chimera, in my ſole Fact.</l>
+            </sp>
+            <sp>
+               <speaker>THEORIE.</speaker>
+               <l>
+                  <hi>If ſo, it holds your Sword to dignifie;</hi>
+               </l>
+               <l>
+                  <hi>Aboue that arm, yee ſo do magnifie.</hi>
+               </l>
+            </sp>
+            <q>
+               <bibl>M. T. L.</bibl>
+               <l>HAlt both, I charge, and make a Reference,</l>
+               <l>Diſcerned in this ſequell Inference.</l>
+               <l>This Author hee hath better Theoriſ'd,</l>
+               <l>That formerlie, hee hath the ſame practiſ'd.</l>
+               <l>And doubtleſs better now hee can practiſe,</l>
+               <l>That ſo well can his Practick Theoriſe.</l>
+               <l>Soull and Bodie makes a Man; heere it's rare,</l>
+               <l>Act and Theſis, Exactneſs do declare.</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175264:10"/>
+            <head>A MILITARIE RUDIMENT, Or Obſervations vpon Militarie exerciſe.</head>
+            <argument>
+               <p>BEfore I initiate the Exerciſe it ſelf, or what is conſiderable there anent, I giue the young Souldiour this Frontiſpice of Prepara<g ref="char:EOLhyphen"/>tion; wherein there is two generall Principalls, hee ought to bee acquaynted with: Firſt, in the certayn Belief, that the Coward is as ſoon killed, as the Valiant man; and that manie more die in flight<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as in fight; that Honour and Reward is to the one, but Shame and Puniſhment to the other. Secondlie, If this hee would ſhun, and that Gayn, it is in knowing how well hee can obey his Superiour, For vpon Obedience all dependeth; and without the ſame, nothing can bee well ruled or done: for from Obedience, commeth Order; and from Order Militarie Exerciſe, (as yee may perceaue by the Definition there-of) and by Militarie Exerciſe all is mayntayned.</p>
+            </argument>
+            <head>DEFINITION.</head>
+            <p>
+               <seg rend="decorInit">M</seg>ILITARIE EXERCISE, is a Uniformitie of Order, in reſpect of difference of perſons; in reſpect of Diſtinction of Tyme; and in re<g ref="char:EOLhyphen"/>ſpect of diſtance of place.</p>
+            <p>And for the firſt of thoſe, in reſpect of per<g ref="char:EOLhyphen"/>ſons, what Commandement is to one, muſt bee practiſed by all; except accidentallie, and in trayning.</p>
+            <p>And in reſpect of Tyme, what is practiſed bee one, all muſt practiſe at the ſelf ſame inſtant, ſaving onlie in the former ex<g ref="char:EOLhyphen"/>ception.</p>
+            <p>And in reſpect of Place: It is to bee conſidered, there are three ſorts of Diſtances; to wit, Open Order: Secondlie, Or<g ref="char:EOLhyphen"/>der: thirdlie, Cloſs Order.</p>
+            <pb n="9" facs="tcp:175264:10"/>
+            <p>Open Order, or the firſt Diſtance is, when the Souldiours both in rank and ſtring, ſtand ſix foot romoved one from another.</p>
+            <p>The vſe hereof, is for exerciſing your motions: in which caſe, yee muſt alwayes keep your Open Order: and the rea<g ref="char:EOLhyphen"/>ſon is, the larger the Exerciſe, the greater Diſtance is re<g ref="char:EOLhyphen"/>quyred.</p>
+            <p>The ſecond diſtance, or order, is, when the Souldiours ſtand three foot removed one from another.</p>
+            <p>The vſe thereof, is for the Muſquetiers, who muſt never bee cloſſer: and the reaſon is, they muſt haue a free vſe of their Arms.</p>
+            <p>The third diſtance, or Cloſs Order, is commanded by this word CLOSE: which is when there is a foot and half from ſtring to ſtring, and three from rank to rank.</p>
+            <p>The vſe hereof, is for the Pikes onlie, and never muſt bee vſed, but when yee ſtand firm to receaue the Enemie: and the reaſon is, the cloſſer they ſtand, they are the more vni<g ref="char:EOLhyphen"/>ted: and ſo vneaſier to bee broken.</p>
+            <p>Having conſidered the foreſayds: and before wee come to the Exerciſe it ſelf; there is four things to bee performed: the firſt is, to place the Companie in the firſt Diſtance of Open Order: and that for the reaſon in it own place beforeſayd.</p>
+            <p>The ſecond is conſiſting in this word of COMMANDEMENT: to wit, SILENCE.</p>
+            <p>The vſe thereof, is, that all may giue audience, and obſer<g ref="char:EOLhyphen"/>vance, to that onlie which is commanded.</p>
+            <p>And the third, is to make known to them all, what a Rank and a String is; and the beſt Definition I can giue you is.</p>
+            <p>To wit, of a Rank, when yee conſider it from the right to the left hand, onlie one man in deepneſs.</p>
+            <p>And of a String, when yee recken and conſider it from the Front to the Rear, onlie one man in broadneſs.</p>
+            <p>The third thing is conſiſting in two Commandements: to wit,</p>
+            <p>Stand right in your Ranks.</p>
+            <p>Stand right in your Strings.</p>
+            <p>The Inſtruction how to perform both theſe Precepts is when
+<pb n="10" facs="tcp:175264:11"/>their own juſt and equall diſtance is betwixt man &amp; man, both in Rank and String; but when they are in their third order, their diſtance then muſt bee equall, but <hi>reſpectivè.</hi>
+            </p>
+            <p>And the reaſon is, if ſtanding not right in rank and ſtring, they ſhould bee promiſcuous; and there-vpon confuſion, ſo con<g ref="char:EOLhyphen"/>trarie to order; for the verie eſſence and ſubſiſtance of Militarie Exerciſe, is Order.</p>
+            <p>The vſe of theſe Precepts, is in that they are the foundation of the whole Exerciſe; For what Exerciſe can bee performed without a rank and ſtring, except ſimples; which may bee done by one onlie perſon, without a bodie.</p>
+            <p>And now of the Exerciſe it ſelf, whoſe compoſition is of mo<g ref="char:EOLhyphen"/>tion, and they are of two ſorts. The firſt are the Motions of the Exerciſe it ſelf; which without Arms may bee done.</p>
+            <p>The ſecond are the Motions of the Poſtures, in handling of the Arms; And for the firſt of theſe, they are lykewayes of two ſorts.</p>
+            <p>The firſt of theſe are Primitiue, or more Simple Motions; The ſecond are Derivitiue, or Motions, of an ampler practiſe; and juſtlie the particular exerciſes, are called Motions.</p>
+            <p>And of theſe primitiue, and more ſimple Motions; which are in number eyght; Four diſtinguiſhed, and four indiſtinct; as yee may perceaue by the words of Command; to wit,</p>
+            <lg>
+               <l>To the right hand.</l>
+               <l>As yee were.</l>
+               <l>To the left hand.</l>
+               <l>As yee were.</l>
+               <l>To the right hand about.</l>
+               <l>As yee were.</l>
+               <l>To the left hand about.</l>
+               <l>As yee were.</l>
+            </lg>
+            <p>The Inſtruction how to per<g ref="char:EOLhyphen"/>form the diſtinguiſhed four is; When to what hand yee turn, the foot of the ſelf ſame hand or ſyde, by mooving, indeed, turns; but the contrarie foot onlie remooveth. As for Ex<g ref="char:EOLhyphen"/>ple; If yee turn to the right hand, the foot of the right ſyde muſt mooving turn; But the heell of the foreſayd foot, muſt keep the ſame place, &amp; the contrarie foot onlie remoue. And the reaſon is, to keep a perfect equall diſtance by all.</p>
+            <p>And the Leſſon in performing the other four is to bee ſpe<g ref="char:EOLhyphen"/>ciallie noted, when yee are commanded as yee were, yee are to
+<pb n="11" facs="tcp:175264:11"/>return by the contrarie hand. As for example; If yee turn to the right hand, yee are to return as yee were to the left hand, but the ſelf ſame foot which did not remoue in the turning, muſt not remoue in returning; and that for the reaſon, in the preceeding inſtruction.</p>
+            <p>The vſe of theſe Motiones is, in that they are the fundamen<g ref="char:EOLhyphen"/>tall Means, where by yee may frame a Companie conſequent<g ref="char:EOLhyphen"/>lie a greater bodie, to anie faſhion or figure that is exigent.</p>
+            <p>But in the mean tyme, of placing your Companie, this gene<g ref="char:EOLhyphen"/>rall obſervation, muſt not bee for gotten; that in the Front, Mid<g ref="char:EOLhyphen"/>dle, and Rear; the moſt expert and capable bee placed; for they are Leaders; whom the reſt muſt follow in performing the ſub<g ref="char:EOLhyphen"/>ſequent Motiones; where-vpon this generall precept is to bee publiſhed; to wit,</p>
+            <p>Follow your leaders, and keep with your right hand man.</p>
+            <p>The vſe hereof is for facillitating their practiſe; for it is a pre<g ref="char:EOLhyphen"/>cept to each other rank, to each other ſtring; as alſo to the fol<g ref="char:EOLhyphen"/>lowers of middle-men, and fellowers of bringers vp; and the reaſon is, That is to them onlie this Rule, they are moſt inex<g ref="char:EOLhyphen"/>pert; For rudeneſs, and inexperience, requyreth not onlie pre<g ref="char:EOLhyphen"/>cept, but example; and this for performing the following Mo<g ref="char:EOLhyphen"/>tiones, which are of the ſecond ſort, and of an ampler practice; and they are in number manie. The firſt of them are</p>
+            <lg>
+               <l>Double your ranks to the right hand.</l>
+               <l>As yee were.</l>
+               <l>Double your ranks to the left hand.</l>
+               <l>As yee were.</l>
+            </lg>
+            <p>Doubling of ranks is done, when each other rank from the Front, man by man interponeth themſelues ſeverallie in the for<g ref="char:EOLhyphen"/>mer rank, in the diſtance betwixt ſtring &amp; ſtring, to what hand they are commanded.</p>
+            <lg>
+               <l>Double your ſtrings to the right hand.</l>
+               <l>As yee were.</l>
+               <l>Double your ſtrings to the left hand.</l>
+               <l>As yee were.</l>
+            </lg>
+            <p>Doubling of ſtrings is done, when each other ſtring from what hand yee double, man by man interponeth themſelnes ſe<g ref="char:EOLhyphen"/>verallie
+<pb n="12" facs="tcp:175264:12"/>betwixt man and man, in the diſtance betwixt rank and rank, to what yee are commanded.</p>
+            <lg>
+               <l>Middle-men, double your Front, to the right hand.</l>
+               <l>As yee were.</l>
+               <l>Middle-men, double your Front, to the left hand.</l>
+               <l>As yee were.</l>
+            </lg>
+            <p>This is done, when the ſixt rank equallie marcheth vp to the Front; and their placeth themſelues betwixt man and man, in the firſt rank, to what hand they are commanded, and ſo the ſea<g ref="char:EOLhyphen"/>venth, to the ſecond; the eyght, to the third; the nynth, to the fourth; the tenth rank, to the fyft; and this is they beeing ten in deepneſs.</p>
+            <lg>
+               <l>Bringers vp double your Front, to the right hand.</l>
+               <l>As yee were.</l>
+               <l>Bringers vp double your Front, to the left hand.</l>
+               <l>As yee were.</l>
+            </lg>
+            <p>This is done, when the laſt rank; to wit, the tenth, equallie marcheth vp to the Front; and therein the firſt rank placeth themſelues betwixt man and man; and ſo the penult to the ſe<g ref="char:EOLhyphen"/>cond. The ante-penult, to the third; the ſeaventh, to the fourth; the eyght, to the fyft. So that both their doublings of middle<g ref="char:EOLhyphen"/>men and bringers vp, maketh but half the deepnes; but in the ſelf ſame broadneſs, vniteth themſelues in confederacie by dou<g ref="char:EOLhyphen"/>ble the former number.</p>
+            <p>The vſe of all theſe doublings in generall, is. When vpon a ſudden ſurpryſe yee double your ſtrength, in preſenting; but this holdeth not alwayes, in doubling of ſtrings; For then they are all open; and it is for evaſion, eyther of ſmall or great ſhot: but if the aſſault bee vpon the wings, and the commanded to the right or left hand; the firſt vſe then holdeth. They are often pra<g ref="char:EOLhyphen"/>ctiſed within a Wall, a Hedge, or Advantage, with other vſeth, which brevitie will not permit.</p>
+            <p>Rank to the right hand counter-march.</p>
+            <p>Rank to the left hand counter-march.</p>
+            <p>This is a Counter-march in deepneſs; to wit, From the Front to the Rear. But if yee would make a Counter-march in broad<g ref="char:EOLhyphen"/>neſs:
+<pb n="13" facs="tcp:175264:12"/>that is to ſay; From the right hand to the left hand ſtring, yee muſt command them firſt</p>
+            <list>
+               <item>Strings, to the right hand. Then</item>
+               <item>Strings, to the right hand Counter-march.</item>
+               <item>Strings, to the left hand. Then</item>
+               <item>Strings, to the left hand Counter-march.</item>
+            </list>
+            <p>The Inſtruction here-in is all one, when yee Counter-march. The firſt Ranks, or Leaders, onlie muſt advance, and ſtep for<g ref="char:EOLhyphen"/>wards, with the right or left leg: if to the right hand, the right leg: if to the left hand, the left leg: and then turn, and ſo beeing fallen down, to the Rear, rank your ſelf, accordinglie in the Rear. And all the other ranks muſt march vp to the ſame place from whence the firſt ranks did counter-march before they tur<g ref="char:EOLhyphen"/>ned: And ſo they march to the Rear, by the right or left hand, (as is commanded) of that part of their own ſtring that fol<g ref="char:EOLhyphen"/>loweth them. And theſe that haue counter-marched, muſt ſtill follow them that as yet advanceth to the place of their Counter-march. So that everie man regayneth the ſame place, hee firſt was in. And thus you ſee, it is contrarie to the ordinarie March, as the word it ſelf beareth.</p>
+            <p>The vſe of a Counter-march commonlie is, when you Skir<g ref="char:EOLhyphen"/>miſh; For you fight then looſs, and disbanded; and doeth not advance towards the Enemie.</p>
+            <lg>
+               <l>Make your Converſion, to the right or left hand inwardlie.</l>
+               <l>As you were.</l>
+            </lg>
+            <p>This is done, whe<g ref="char:cmbAbbrStroke">̄</g> the two outmoſt ſtrings; to wit, the right or left hand ſtring onlie turneth, the right hand ſtring, to the left hand; and the left hand ſtring, to the right hand; Which ma<g ref="char:EOLhyphen"/>keth the two ſtrings, to bee face to face. Then the ſtrings in the bodie within theſe two outmoſt; The one half of them fal<g ref="char:EOLhyphen"/>leth to the right hand ſtring; and the other half, to the left hand ſtring. And ſo they are all in two ſtrings, face to face. And thus they are ſo much voyd betwixt, as the ſtrings within the out<g ref="char:EOLhyphen"/>moſt took vp.</p>
+            <p>And the vſe heereof, is not onlie to giue way, but to make Guard, to the Generall, to an Ambaſſadour to go in or out at a
+<pb n="14" facs="tcp:175264:13"/>Paſſage; or to thoſe that hath rendred a Fort, to go out.</p>
+            <p>Make your converſion to the right or left hand outwardlie.</p>
+            <p>This is done, when the two middle ſtrings turneth; to wit, The right hand ſtring, to the right hand; the left hand ſtring, to the left hand; and ſo back to back, then the ſtrings on the right hand of the middle ſtrings, falleth in to the right hand ſtring, and the ſtrings on the left hand, falleth into the left hand; and ſo maketh of all but two ſtrings, and that back to back. There is converſions alſo, when all the ſtrings remayn inteir and com<g ref="char:EOLhyphen"/>pleet; but by equall diviſion, the one half turning to the left hand, and the other half to the right hand; and ſo all faces to fa<g ref="char:EOLhyphen"/>ces; or by turning outwardlie, the one and other half; and then back to back.</p>
+            <p>The former two Converſions can not bee vſed, but when they are four or ſix at moſt in broadneſs; to wit, in ſtrings; but the latter Converſion may bee vſed, when they are a great ma<g ref="char:EOLhyphen"/>nie ſtrings.</p>
+            <p>And the vſe of that outward Converſion amongſt others, is, when they are hardlie aſſaulted on both wings.</p>
+            <p>The firſt rank ſtring conſequentlie the reſt.</p>
+            <p>This is performed, when the right hand man in the Front ad<g ref="char:EOLhyphen"/>vanceth whyle the bodie halteth a little; and then his left hand man followeth vp after him; and ſo all the rank man by man, is drawn vp to the ſtring; and after this maner all the remayning ſtrings. And thus as they haue ſtringed, one after another falleth vp to his firſt order.</p>
+            <p>The ſtring on the right or left hand, conſequent<g ref="char:EOLhyphen"/>lie the reſt.</p>
+            <p>This is done, when the right or left hand ſtring advanceth from the bodie, whyle the ſame halteth to the tyme the laſt man of the foreſayd ſtring bee clearlie advanced from his collate<g ref="char:EOLhyphen"/>rall ſtring; Then immediatelie the remayning ſtrings in lyke manner advanceth one ſtring after another; commonlie as the firſt ſtring is clearlie advanced; it then halteth to the tyme the following ſtring, falleth vp to his firſt order; and ſo one after another.</p>
+            <p>The vſe of both Exerciſes (except in ſome little reſpects)
+<pb n="15" facs="tcp:175264:13"/>are all one they are done, when yee come to port, a ſtrait, a Paſ<g ref="char:EOLhyphen"/>ſage; When one onlie is able to march in front.</p>
+            <p>Before yee make the Great Turn, or wheeling about yee muſt perform theſe particulars following, fyue in number.</p>
+            <list>
+               <item>Right about.</item>
+               <item>Cloſe your ranks.</item>
+               <item>Cloſe your ſtrings, to the right and left hand.</item>
+               <item>Cloſe your ranks, to the ſword point.</item>
+               <item>Mount your Arms, Pickes and muſquets.</item>
+            </list>
+            <p>The Great Turn, to the right hand.</p>
+            <p>The Great Turn, to the left hand.</p>
+            <p>There is ſo manie diſtinct Particulars in this Exerciſe ſeveral<g ref="char:EOLhyphen"/>lie performed, that it admitteth no further Inſtruction, onlie note when yee will haue them cloſe their ſtrings, to the right or left hand, the outmoſt ſtring on that hand yee purpoſe to cloſe, muſt bee commanded to ſtand, and all the reſt to cloſe to it.</p>
+            <p>And before you command them to their firſt Order, you muſt cauſe them performing theſe four enſuing particulars: to wit;</p>
+            <list>
+               <item>Open your ranks, to the Rear.</item>
+               <item>Ranks to your Order.</item>
+               <item>Strings to your Order.</item>
+               <item>Front as you were.</item>
+            </list>
+            <p>In opening ranks or ſtrings, you muſt make all, both ranks and ſtrings, (ſaving the outmoſt on that hand yee mean to open which muſt ſtand) to moue altogether, to the tyme the ſecond rank, or ſtring, from that which ſtandeth, haue gotten it diſtance and ſubſequent the reſt.</p>
+            <p>The vſe hereof, is altogether defenſine, to keep them ſelues vnbroken by the furie of horſes.</p>
+            <p>And now this much of theſe Exerciſes, common to both Pike-men and Muſquetiers; But there are others vſuall onlie bee the Muſquetiers; and theſe are ſuch as followeth. But be<g ref="char:EOLhyphen"/>fore yee practiſe theſe particular Motions; your men muſt bee ſet in Batell, ten deep; or vpon exigencie in Skirmiſhing; And when your Armie is not great, yee may place them ſix in deep<g ref="char:EOLhyphen"/>neſs;
+<pb n="16" facs="tcp:175264:14"/>And then yee muſt not fayll to command them, to obſerue that in all their actiones, they turn to the right hand; and that they carrie the mouthes of their pieces high, as well when they are panning, as when they are pan-guarded; and come to giue fyre. And the termes vſuall are.</p>
+            <lg>
+               <l>Make readie the firſt two Ranks.</l>
+               <l>Turn to the right hand, and giue fyre.</l>
+            </lg>
+            <p>And the Inſtruction of thus giving fyre is that alwayes two ranks make readie together, and advance ten paces forwards be<g ref="char:EOLhyphen"/>fore the bodie. At which inſtance, a Sergeant, or when the bo<g ref="char:EOLhyphen"/>die is greater ſome other Officer, muſt ſtand; to whom the Muſquetiers are to come vp before they preſent, and giue fyre. And the ſecond rank keep their Muſquets cloſs, to their Reſts: And the pan-guarded; and as ſoon as the firſt are fallen away; the ſecond immediatelie preſenteth, and giue fyre; two more are to make readie. And ſo one after another; making the ad<g ref="char:EOLhyphen"/>vancement of ten paces ſtill; by which yee mayntayn at leaſt your own ground; if otherwayes yee loſs ground. And the rea<g ref="char:EOLhyphen"/>ſon is, they being ten in deepneſs. The Rear men be conſequence ten paces behynd. Which ten they advancing, they ſtand in the ſelf ſame place of theſe that were firſt in the Front.</p>
+            <p>The vſe hereof is in there is the ordinarie form in Battell: and when they do not Skirmiſh; but rather advanceth towards the Enemie.</p>
+            <lg>
+               <l>Make readie the firſt two ranks, in the Rear.</l>
+               <l>Turn to the right hand, and giue fyre; and fall vp to the Front; And ſo to the laſt.</l>
+            </lg>
+            <p>This is done, when you command the whole bodie right a<g ref="char:EOLhyphen"/>bout. And thus your Front, the Rear; &amp; the Rear, your Front. And then maketh that which is Rear, now giue fyre by com<g ref="char:EOLhyphen"/>manding them right about; and after fyre, to fall away; and place themſelues in the Front. And ſo one after another.</p>
+            <p>The vſe is, When you are charged in the Rear; And whyle you thus giue fyre, you march forwards to your intended place, whether it bee for Relief of that place; or for your own ſafetie; or for advantage in preocupying the Enemie in a Paſs, or when
+<pb n="17" facs="tcp:175264:14"/>you haue charged the Enemie, and there-after intendeth to make a ſafe Retreat; Becauſe you haue the worſs, or other <hi>re<g ref="char:EOLhyphen"/>ſpectivè.</hi>
+            </p>
+            <p>Left about.<note place="margin">Note; That this a Commandement to all the Companie.</note>
+            </p>
+            <lg>
+               <l>The ſtring on the right hand, make readie, and giue fyre, to the right hand; and ſtand firm.</l>
+               <l>The other two ſtrings, march vp.</l>
+               <l>The ſecond and third, turn to the right hand; and giue fyre.</l>
+            </lg>
+            <p>All three thus beeing in on Front; the Sergeant bringeth vp the firſt to the ſecond, vpon the right hand; Then leadeth vp the ſtrings, to the Front of the left ſtring.</p>
+            <p>Here-in you may ſee and perceaue ſo manie diſtinct particu<g ref="char:EOLhyphen"/>lars, that the inſtruction in performing this practiſe is clear.</p>
+            <p>And the vſe for the moſt is when with a few you would oc<g ref="char:EOLhyphen"/>cupie the length of a lyne, of a Wall, or of a Ditch, or anie other ſutable Advantage. And thus giue fyre vpon the Enemie, as hee paſſeth.</p>
+            <p>All the forſayds, which is vſuall onlie by the Muſquetiers, are moſt obſervable in exerciſing; and that for teaching and trayning the vnlearned. But in practiſe, you muſt vſe onlie theſe Commandements.</p>
+            <p>Make readie by ranks; preſent, and giue fyre; and ſtand firm; and fall about to the right hand, to the Rear; or rather,
+<list>
+                  <item>Make readie.</item>
+                  <item>Preſent.</item>
+                  <item>Giue fyre.</item>
+               </list>
+            </p>
+            <p>Note; As the Captayn exerciſeth the Muſquetiers particular<g ref="char:EOLhyphen"/>lie; So the Lieuetenant exerciſeth the pike-men; making a Charge with Touck of Drum, in preſenting their Arms to the right and left hand; in the Van-guard, and in the Rear, mar<g ref="char:EOLhyphen"/>ching and retiring, anſwering to the Touck of Drum; which vpon ſervice are a March and Trouping; a Charge; and a Retreat.</p>
+            <pb n="18" facs="tcp:175264:15"/>
+            <p>And thus much of the foreſayd Motions, wherein a young Souldiour may bee trayned; and in ſome meaſure, before hee haue the occaſion of Arms. But now of the Motiones of your Poſtures, in handling your Arms. To wit, Of Pike and Muſquet. And firſt of the Poſtures of the Pike, of whoſe number ſome are performed ſtanding; which you ſhall diſcern by this letter S. And ſome are exerciſed both ſtanding and marching; which you ſhall diſtinguiſh by theſe letters S. and M. For in the po<g ref="char:EOLhyphen"/>ſition heere I keep onlie the Method, according to the Order of the Exerciſe it ſelf in trayning.</p>
+            <list>
+               <item>Lift your pikes. S.</item>
+               <item>Mount your pikes. S.</item>
+               <item>Set down your pikes. S.</item>
+               <item>Shoulder your pikes. S. and M.</item>
+               <item>Charge your pikes. S. and M.</item>
+               <item>Set down your pikes. S.</item>
+               <item>Palm to the point your pikes. S.</item>
+               <item>Cheek your pikes. S. VVhich
+is done, when by palming, you hold your right hand vpon your ſyde, with your pike; and your left hand vpon the point thereof. is done, when you preſent your pike by palming.</item>
+               <item>Recover your pikes. S. Which is done, when you preſent your pike by palming.</item>
+               <item>Charge your pikes. S. and M.</item>
+               <item>Shoulder your pikes. S. and M.</item>
+               <item>To the right or left hand charge. S. and M.</item>
+               <item>Shoulder your pikes. S. and M.</item>
+               <item>Charge to the Rear. S. and M.</item>
+               <item>Port your pikes. S. and M.</item>
+               <item>Stand.  </item>
+               <item>Set down your pikes. S.</item>
+            </list>
+            <p>Obſerue in charging that half the ranks onlie muſt charge their pikes; And that they carrie them ſo couched over the heads of the formoſt, as may giue no offence, eyther in charging or retiring. And the reaſon is, In that this way, pikes are not ſo ſubject to bee broken by the ſhot of the Enemie.</p>
+            <p>Next; Of the Poſtures of the Muſquet; And the words of Command vſuall in the handling thereof. And theſe firſt your Muſquet beeing charged,</p>
+            <pb n="19" facs="tcp:175264:15"/>
+            <list>
+               <item>March with your Muſquet in your hand.</item>
+               <item>Sink your reſt, and vnſhoulder your Muſquet.</item>
+               <item>Hold vp your Muſquet in the right hand; and let her ſink in the reſt.</item>
+               <item>In your left hand, hold your Muſquet; &amp; car<g ref="char:EOLhyphen"/>rie your reſt with it.</item>
+               <item>In your right hand, take your Lunt, (or Match) and hold it well.</item>
+               <item>Blow your Lunt.</item>
+               <item>Cock your Lunt.</item>
+               <item>Try your Lunt.</item>
+               <item>Blow your Lunt, and try your pan.</item>
+               <item>Hold your Muſquet, and preſent.</item>
+               <item>Giue fyre.</item>
+            </list>
+            <p>Now, Having diſcharged your Muſquet, you muſt charge agayn, after the manner following.</p>
+            <list>
+               <item>Take down your Muſquet, and carrie your Reſt with it.</item>
+               <item>Uncock your Lunt.</item>
+               <item>Blow your Lunt.</item>
+               <item>Put it agayn betwixt your fingers.</item>
+               <item>Blow your pan.</item>
+               <item>Morſs your pan.</item>
+               <item>Cloze your pan.</item>
+               <item>Caſt off your pan.</item>
+               <item>Caſt about your Muſquet.</item>
+               <item>Trayll your Reſt.</item>
+               <item>Open your Charges.</item>
+               <item>Charge your Muſquets.</item>
+               <item>Draw out your Ramſticks.</item>
+               <item>Shorten your Ramſticks.</item>
+               <item>Fetch your Muſquet forward, with the left hand; and hold it vp in the right hand; and recover the Reſt.</item>
+               <item>Shoulder your Muſquet.</item>
+            </list>
+            <p>And having thus way charged your Muſquet, you muſt agayn make readie, as followeth.</p>
+            <pb n="20" facs="tcp:175264:16"/>
+            <list>
+               <item>Lay your Muſquet in your Reſt.</item>
+               <item>Hold your Muſquet in your Reſt, with the left hand onlie in ballance.</item>
+               <item>Take your Lunt in your right hand.</item>
+               <item>Blow your Lunt.</item>
+               <item>Cock your Lunt.</item>
+               <item>Try your Lunt.</item>
+               <item>Guard your pan; and bee readie.</item>
+            </list>
+            <div type="part">
+               <head>The Ranges of Officers, from the loweſt, to the higheſt.</head>
+               <p>THE loweſt Range, and meaneſt Officer, is Lanſpreſado; the Leader of half a ſtring; called a Middle-man, or Cap<g ref="char:EOLhyphen"/>tayn over four, the Corporalls Deputie.</p>
+               <p>Next is the Corporall. Hee is the Leader of aſtring, and Commander of a Squadre in their Watch and Centrie.</p>
+               <p>Next is the Sergeant; An Officer of great vſe, for rectifying of ranks and ſtrings, of neceſirie hee ſhould bee Skilfull.</p>
+               <p>Next ſhould the Drummer bee at leaſt the Drummer Major; whoſe Place is Gentile; hee ſhould bee of experience, and a good Linguiſt; for redeeming of Priſoners; for intimation of Parties. His place of march is three ranks of pikes or Muſquets preceeding.</p>
+               <p>Next is the Scriver, or the Clerk of the Band. Hee is no Soul<g ref="char:EOLhyphen"/>diour; yet hee ought to bee learned in Martiall lawes; to in<g ref="char:EOLhyphen"/>ſtruct the ſouldiours. Hee receaveth pay from the Treſaurers; and delyvereth it, proportionablie, to the Companie.</p>
+               <p>Next is the Chirurgion lyke no wayes, no ſouldiour; And the reaſon is, if hee were wounded, who ſhould cure thoſe of the Companie, hee holdeth his place of Courteſie.</p>
+               <p>Next is the Antſign, or Coulours bearer, The Romanes, as the Spaniards: now holdeth him next the Captayn. Hee marcheth vpon the right hand of the pikes, commonlie two ranks precee<g ref="char:EOLhyphen"/>ding
+<pb n="21" facs="tcp:175264:16"/>him. In Garniſon hee ought to haue the moſt eminens place of Lodging, or in Quartering. And the reaſon is, It is the conveaning place. For therein is the Credit, and principalitie of the Companie.</p>
+               <p>Next is the Quarter-maſter of the Regiment, or Harbinger. Hee intimateth their way and paſſages; and where they ſet down; and to everie Companie their quarter and place. Hee depen<g ref="char:EOLhyphen"/>deth vpon the Quarter-maſter Generall.</p>
+               <p>Next is the Provoſt Marſhall. Hee hath the Cuſtodie and Re<g ref="char:EOLhyphen"/>ſpect to Guiltie perſons, and the Charge of the Execution. Hee dependeth vpon the Iudge Marſhall.</p>
+               <p>Next is the Lieuetenant, a Captayns conjunct; in whoſe ab<g ref="char:EOLhyphen"/>ſence hee occupieth his Vice, as the word it ſelf beareth; hee bringeth vp the Rear, whyle the Captayn marcheth vpon the Van; and the Rear hath the ſecond place. The reaſon whereof, is, if commanded right or left about the Rear, becommeth the Front.</p>
+               <p>Aboue all theſe, is the Captayn. His Charge is over a Com<g ref="char:EOLhyphen"/>panie; commonlie conſiſting of one, two, or three hundreth. Hee ought to know the duetie of the forſayds Officers, that ac<g ref="char:EOLhyphen"/>cordinglie hee may command.</p>
+               <p>Next is the Sergeant Major, a principall Captayn, the Deli<g ref="char:EOLhyphen"/>verer and Diſtributer of the Orders of the Regiment. Hee re<g ref="char:EOLhyphen"/>ceaveth them from the Commander of his Brigado: And hee from the Major Generall, of his Brigado, (who commonlie is choſen out of the Majors of the Regiments;) And hee from the Lord Marſhall of the Field.</p>
+               <p>Next is the Lieuetenant Collonell. Hee ſurragateth the Vice and place of the Collonell, in his abſence.</p>
+               <p>And aboue all theſe, is a Collonell. Hee is head, and hath Commandement of a Regiment; conſiſting of ten or fifteen Companies. And the eldeſt is <hi>Magiſter de Campo.</hi>
+               </p>
+               <p>Next is the Sergeant Major Generall. Hee is taken out of the Collonells, commonlie, at leaſt once, hee ought to haue been on. Hee commandeth the Collonells, and rangeth the infanterie in<g ref="char:EOLhyphen"/>to <hi>Battalia.</hi> Hee is one of the Councell of Warre.</p>
+               <p>Next is the Collonell Generall, if there bee anie. Hee hath a
+<pb n="22" facs="tcp:175264:17"/>generall care of the Government of all the infanterie: But in a Armie, hee hath onlie commandement of a Brigado. Hee is ever one of the Councell of Warre.</p>
+               <p>Next is the Lieuetenant Generall of the Horſs, or Generall thereof. For hee muſt haue none aboue him, except the Gene<g ref="char:EOLhyphen"/>rall of the Armie; one of the Councell of Warre. Hee hath his own Commiſſarie, and Quarter-maſter generall.</p>
+               <p>Next is the high Treſaurer of the Armie, vnder the Generall onlie. Hee is to haue reguard to the Auditor, Muſtur-maſter, Commiſſarie, one of the Councell of Warre.</p>
+               <p>Next is the Maſter or Generall of the Ordinance. Hee is one of the Councell of Warre.</p>
+               <p>Next is the Lord Marſhall. Hee diſtributeth the Generalls Commands to all the other Officers of the Armie. Hee ordereth their Lodgings, and encampings. Hee aſſigneth in Battell, to everie bodie his place. The Sergeant Major Generall, afterwards, accordinglie rangeth. The Infanterie into <hi>Battalia.</hi> Hee mar<g ref="char:EOLhyphen"/>cheth in the Vanguard.</p>
+               <p>Next is the Lieuetenant Generall of the Armie, younger Brother to the Generall. Hee ought to cauſe all the Generalls Commands, bee put in Execution, as abſolutelie as himſelf: But ſpeciallie in march. For thus hee doeth eaſe him. Some think vnneceſſarie this Office, where there is a Lord Marſhall.</p>
+               <p>Laſtlie; Having no paralell is the Generall; Whoſe proper<g ref="char:EOLhyphen"/>ties ought to bee Valiantlie to fight; of a reſolute Mynd, and judgement, in all Recounters; to make a Surpryze, with good and foreſeeing vnderſtanding; to chooſe well a place of Ad<g ref="char:EOLhyphen"/>vantage; to chooſe a proper place, for lodging, or fighting; to paſs a River, or eſcape an evill paſſage: and, when need is, to make great Expedition: To make falſs or true Allarums; or aſ<g ref="char:EOLhyphen"/>ſaulteth to the Enemie, in place and tyme convenient: To bee Skilfull in Engynes; and paynfull in all: To bee liberall; and to reward Valiant Acts of Arms; and mercifull to Forfaitures. And in a word; Hee ought to know everie one his Duetie; and ſhould excell in Vertue, Wiſdom, Diligence, and Experience.</p>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:175264:17"/>
+               <head>There is a ſecond Range, and haue another Dependance; And moſt of them wayt vpon the Horſmen; And take their Direction from the LORD MARSHALL.</head>
+               <p>THE Firſt and Loweſt, is Gun-Maſter, an inferior Officer; vnder the Maſter of the Ordinance. And hee is called a Conſtable.</p>
+               <p>Next, is the Trench-Maſter. Hee hath reſpect to Fortifi<g ref="char:EOLhyphen"/>cations.</p>
+               <p>Next, is the Wagon-maſter. Hee hath charge of Bag and Baggage. Hee is called <hi>Maſter Impedimentorum.</hi>
+               </p>
+               <p>Next, is the Forrage-maſter. His charge is for Proviſion, to the Horſs. Hee dependeth more nearlie vpon the Lord Marſhall. Hee hath his Inferiour Officers.</p>
+               <p>Next, is the Proveant-maſter. His charge is for Victualls to the Armie. And hee hath his Quarter-maſter, and other Of<g ref="char:EOLhyphen"/>ficers.</p>
+               <p>Next, is the Iudge Marſhall. Hee giveth Sentence vpon Offenders.</p>
+               <p>Next, is the Scout-maſter. Hee maketh chooſe of places of Danger; where, and how, to place them. Hee dependeth alſo more directlie vpon the Lord Marſhall.</p>
+               <p>Next, is the Lieuetenant of the Ordinance. Hee dependeth vpon the Maſter of the Ordinance. They haue thier Quarter<g ref="char:EOLhyphen"/>maſter, and Inferiour Officers.</p>
+               <p>The Laſt, and Greateſt, is Muſtur-maſter Generall: And is one of the Councell of Warre.</p>
+               <p>Theſe are the Functions and Members, of the totall and com<g ref="char:EOLhyphen"/>pleat Bodie: Whoſe head the Generall, communicateth and dif<g ref="char:EOLhyphen"/>fundeth his Orders, and Commandements, by the Lord Mar<g ref="char:EOLhyphen"/>ſhall to them all after this four-fold Diviſion, or Diſtinſtion.
+<pb n="24" facs="tcp:175264:18"/>
+                  <hi>Videlicet,</hi> Of the Cavalrie, of the Infanterie, of the Artillerie, of the Victuall; Which is to ſay, The Commiſſarie Generall of the Horſs, commeth and receaveth the Generall his Orders from the Marſhall, and delyvereth them, to the Lieuetenant Generall of the Horſs; And then to the Quarter-maſter Generall there<g ref="char:EOLhyphen"/>of; And from him to all the Quarter-maſters, from everie Quarter.</p>
+               <p>And ſo the Sergeant Major Generall of everie Brigado com<g ref="char:EOLhyphen"/>meth to the Marſhall; and receaveth their Orders; which hee delyvereth to the Commander of that Brigado; and hee to the Sergeant Major of each Regiment; and then to all the Quar<g ref="char:EOLhyphen"/>ter-maſters from everie Quarter. And ſo the Quarter-ma<g ref="char:EOLhyphen"/>ſter Generall of the Artillerie, from the Marſhall, to the Maſter of the Ordinance; And from them, to everie Quarter-maſter. And in lyke-manner, the Quarter-maſter Generall, of the Vi<g ref="char:EOLhyphen"/>ctuall, commeth to the Marſhall, and receaveth their Orders; which hee delyvereth to the Proveant Maſter; And hee to the other Quarter-maſter from everie Quarter. Thus you ſee with what Facilitie, and what Celeritie the Diverſitie, of one mans Commandements, is diſtributed and diffunded to the vni<g ref="char:EOLhyphen"/>verſall Armie.</p>
+               <p>And of theſe Ranges, the Armie is perfected. For it is a Bodie; And theſe are the Members; and the more diſtinct, it is in their particular charges, the more compleat, the ſame is. This mayn bodie it ſelf, is ingroſſed of man and man, made vp of ma<g ref="char:EOLhyphen"/>nie individuall perſons. Which is done, if vpon march (which is a ſpace vſuallie of three foot and half) beeing four, ſix, or ten, in Front; the Muſquets of everie Companie preceeding the pikes of their own Band; they are commanded to halt. Then conſi<g ref="char:EOLhyphen"/>dering the intended deepneſs, eyther of ſix, or ten, or twelue men, you cauſe them, that immediatelie followeth the foreſayd deepneſs, to march vp in Front, vpon the left hand of the firſt Di<g ref="char:EOLhyphen"/>viſion. And after this manner, all the pikes. And in lyke maner, after theſe the Muſquets, ſtill obſerving the left hand; making on Front; &amp; on deepneſs of all the Companie. And thus way of Companies, Regiments, and of Regiments Brigadoes, or Bo<g ref="char:EOLhyphen"/>dies; and of Brigadoes the vniverſall Bodie; which in broad<g ref="char:EOLhyphen"/>neſs
+<pb n="25" facs="tcp:175264:18"/>hath three ſpeciall Diviſions; to wit, The right and left hand wings; Where the beſt men ought to bee placed; and comonlie beginneth the Fight. And the third Diviſion, is the Battell; or that which is the middle betwixt the two foreſayd wings. The Greeks and Swiſſes as yet, thus in on Front had their Battell; But compacted verie cloſs together, and made vp of manie ranks; commonlie twentie-four in deepneſs; They were ſo cloſs, that hardlie they could bee broken. But now ha<g ref="char:EOLhyphen"/>ving the vſe of other Arms, wee muſt keep the Diſtances al<g ref="char:EOLhyphen"/>readie mentioned. And there is a ſecond Diviſion; to wit, Of deepneſs, (ſpeciallie vſed when the Armie is great and ponde<g ref="char:EOLhyphen"/>rous, the Field, ſtrayt, and narrow, that it is not able to contayn ſo large a Front, as the Armie would extend to.) And thus it is into three bodies; The firſt is the Front, or Vanguard; The ſe<g ref="char:EOLhyphen"/>cond is the Mayn Battell, or middle betwixt the Front, and the Rear: And the third, is the Rear, or Stall. And thus the Armie beeing placed, the firſt beeing beaten; the ſecond may renew the Fight. And if both, the laſt may recover all; As manie exam<g ref="char:EOLhyphen"/>ples can inſtance. And it is thought the beſt way of fighting is by Reſerues; Yea, by Troups, as to hazard all at once. The Romanes vſed this kynd of three-fold Battell. But that they ſo placed them; that the firſt within, the ſecond and both within, the third might in order retire, if need was. And thus ſtill to mayntayn; or rather, to renew the Fight. But their form and manner of retreat, now not in vſe. An Armie may bee drawn vp after manie diverſe forms, and figures, according to the exi<g ref="char:EOLhyphen"/>gencie of Tyme, Place, and new Inventions, and Prudencie of a Generall, as into a Triangular. And the form of an Half moon; or into both at one tyme, as the firſt point chargeth the Enemie; but compoſed of the weakeſt men, that they may the more eaſi<g ref="char:EOLhyphen"/>lie retire; whyle the two Angles advanceth: and becommeth two wings. And there-after the middle part ſhrinking, and the wings advancing; is then after the form of an Half Moon. And that for circumdating the Enemie, as the Battell of Cannas was. And ſome tymes into the ſhape of a Diamond, for penetrating and pearcing within the Enemies Battell, into the figure of an Orb, for defending at all quarters; into a Wind-miln, and di<g ref="char:EOLhyphen"/>verſe others, for their ſeverall reaſons. But heere-in I ſpare
+<pb n="26" facs="tcp:175264:19"/>ſumming all vp in this, that an Armie is a Bodie, made vp of ma<g ref="char:EOLhyphen"/>nie ſingular perſons; whoſe head is the Captayn Generall, whoſe heart is good Order; whoſe lyf and wellfare is in good Com<g ref="char:EOLhyphen"/>manders; Whoſe Defence is in Hors-men; for without the ſame an Armie, is naked. The Soull of which Bodie is Cannon; and Powder, and the Sinews, and Nerves, that concatenateth altoge<g ref="char:EOLhyphen"/>ther is Money.</p>
+               <p>Thus then I halt: Neyther hath it been my ſcope to vnder<g ref="char:EOLhyphen"/>take that which is onlie firting for thoſe of greateſt Wiſdome, and Experience in the perfect Draught of a compleet Armie. Onlie thus much I haue given to the young Souldiour, as a ge<g ref="char:EOLhyphen"/>nerall view of the reaſon, and the end of all the foreſayd Exer<g ref="char:EOLhyphen"/>ciſes; To the effect, That hee who intendeth to bee a Good Captayne, hee may clearlie perceaue, that of neceſſitie hee muſt firſt bee expert in the practice of this Militarie Rudiment. For by the ſame great matters, haue been performed; and wi<g ref="char:EOLhyphen"/>thout the ſame all goeth to confuſion; conſequentlie, to ruin.</p>
+            </div>
+            <div type="part">
+               <head>Moſt conſiderable obſervations, anent Fortifi<g ref="char:EOLhyphen"/>cation, both in Engines vſe of Works, or Skill in Artiliarie; collected from the moſt expert; <hi>who hath verified them by their practiſe.</hi>
+               </head>
+               <p>A Fort is made, that a little may reſiſt a great force, or a few great number of men.</p>
+               <p>And Works from Engyne, are eyther ſimple or componed. The Simples are a Wall, a Rampate, a falſs Bray within the Wall, a Counter-ſcarp, a Lyne, and Angle, a Circle, &amp;c.</p>
+               <p>The Compounds, are eyther of ſome of theſe; as is Redout, an Half Moon, an Horn-work, a Sconſs; or all of theſe, as is the Fortificationes of a Town.</p>
+               <p>That which proceedeth from Aſſault, is eyther from Approa<g ref="char:EOLhyphen"/>ches, or from Artiliarie. But the moſt furious, is by Artiliarie.</p>
+               <p>But firſt of Fortification, from Skill in Works; and then of Aſ<g ref="char:EOLhyphen"/>ſault, by Artiliarie.</p>
+               <p>Before you build a Fort, you muſt obſerue this Maxime, in four particulars. Firſt, to haue a reſpect to the ſtrength of the Enemie. Secondlie, That the Expence may bring Commoditie.
+<pb n="27" facs="tcp:175264:19"/>Thirdlie, That the travaill may bring Reſt. Fourthlie, That the tyme may bring Aſſurance.</p>
+               <p>Next; You muſt obſerue the moſt Advantagious place of Si<g ref="char:EOLhyphen"/>tuation: And there are ſix. The firſt is that of a Mountayn, when the Fortification occupieth the Tope of the ſame. For it can not bee commanded by anie Art. And it diſcerneth all round about it, for to hinder Approaches. But it hath that inco<g ref="char:cmbAbbrStroke">̄</g>moditie; often wanting Water, and good earth, and facilitie of Tranſportation, The ſecond is vpon a mountayn alſo. But the comming to it is by the continuation of another mountayn. This hath a incommodi<g ref="char:EOLhyphen"/>tie more as the firſt; Which maketh Approaches eaſie. for eleva<g ref="char:EOLhyphen"/>ting a Mount vpon the ſame; and to haue an Command within the place. The third alſo is vpon a Mountayn, where there is many wayes comming to it, conſequently, more incommodities. The fourth is vpon a Mariſh watrie, or ſea place; where the Ap<g ref="char:EOLhyphen"/>proaches can not bee without drying the Mariſh. Thefyft is vpon a playn firm ground; which hath the Co<g ref="char:cmbAbbrStroke">̄</g>modities of good earth, and Water in the Ditch. A Fortification eaſie to bee made within and without. But the incommodities great; For the Ap<g ref="char:EOLhyphen"/>proaches are eaſie. The ſixt and laſt, is, That is commanded by ſome Mountayn, one or more. The Commodities few; The in<g ref="char:EOLhyphen"/>commodities great.</p>
+               <p>And the third Obſervation, is, Betwixt the Aſſailers, and the Aſſaulted in a fortified place. And that is (excepting accidents) ten without, for one within, with proportionable proviſion.</p>
+               <p>Laſtlie, You muſt obſerue that the Aſſailers hath incommodi<g ref="char:EOLhyphen"/>ties, that the aſſaulted hath not; Firſt, Evill lodged in an Hut. Secondlie, Diſcovered in their Approaches. Thirdlie, To cover them aboue at the foot of the Breach. Fourtlie, To mount the Ruin of the Breach. Fiftlie, To guard them from that which is caſten from aboue vpon them. Sixtlie, To fight harniſhed, and heavilie armed.</p>
+               <p>And now, of Aſſaults by Artiliarie; which that you may the better know, you muſt conſider four things. Firſt, The deſtru<g ref="char:EOLhyphen"/>ction of Cannon. Secondlie, The neceſſarie proportions there<g ref="char:EOLhyphen"/>of. Thirdlie, The moſt effectuall ſhooting of Cannon. Fourth<g ref="char:EOLhyphen"/>lie, You muſt vnderſtand the proportion betwixt an Armie, and Artiliarie.</p>
+               <pb n="28" facs="tcp:175264:20"/>
+               <p>And for the firſt of theſe; The moſt common Artiliarie ſhoo<g ref="char:EOLhyphen"/>teth 35, and 45 pound.</p>
+               <p>The moſt vulgar length of a Cannon, is ten or twelue foot.</p>
+               <p>And ſecondlie anent the proportion. A Cannon of twelue foo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in length, is equall to 13, or 17.</p>
+               <p>The Charge is according to the value of the powder; com<g ref="char:EOLhyphen"/>monlie the third of the weyght of the Ball, at leaſt.</p>
+               <p>The port of a Cannon in a right lyne is 600 commune ſpace; a Culverine as much, and others leſs.</p>
+               <p>Diſtance of Batteries is 200, 300 ſpace, at the furtheſt, for to evite the hazard of Muſquets.</p>
+               <p>The ordinarie force of a Cannon is (beeing 200 ſpace di<g ref="char:EOLhyphen"/>ſtant) to pearce of well diſgeſted earth fyue foot: but of new builded ground, ſeaven foot; and of ſand, ten foot.</p>
+               <p>A Cannon may ſhoot 80, or more ſhot a-day.</p>
+               <p>The force of a Cannon, is greateſt from a low place to a high.</p>
+               <p>A Cannon is more effectuall, and maketh greater ruin; beeing vpon a Fort, with Angles, and Corners, as a ſimple Batterie, of on Front. For thus they ſhoot athwart.</p>
+               <p>A thouſand ſhot quicklie done, maketh greaterruin, with ten piece of Cannon, as fifteen hundreth ſhot with fyue Cannon.</p>
+               <p>A good Engynier ſhould chieflie foreſee neceſſarie repara<g ref="char:EOLhyphen"/>tions, according to the ruin.</p>
+               <p>Laſtlie, anent the proportion betwixt Armies and Cannon; an Armie for a Siege, ſhould haue twelue Cannon, three Culve<g ref="char:EOLhyphen"/>rines, and ſome Baſcards, for empeaching of fortes.</p>
+               <p>You may judge the greatneſs of an Armie by the number of pieces and munition; they beeing the ſoule of an Armie.</p>
+               <p>As there is proportion betwixt an Armie, and that which ſu<g ref="char:EOLhyphen"/>ſtayneth them, ſo betwixt Artiliarie, powder, and ball.</p>
+               <p>A thouſand men ſhould haue on Cannon, an hundreth balles, and proportionablie powder, and for the carriage thereof an hundreth Horſs: But this may change according to the advan<g ref="char:EOLhyphen"/>tage of the place. For it is eaſier tranſporting by Water, as by Land.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:175264:20"/>
+               <pb facs="tcp:175264:21"/>
+               <pb facs="tcp:175264:21"/>
+               <pb facs="tcp:175264:22"/>
+               <pb facs="tcp:175264:22"/>
+               <pb facs="tcp:175264:23"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
